@@ -1,0 +1,49 @@
+12 mmonucnoN.
+
+A verse consists of a certain number of feet, all the feet
+in any one verse being theoretically of the same length,
+i.e. each foot contains the same number of short syllables or
+their equivalent, the short syllable (ν) being adopted as the
+unit of measurement, and counting as one “ time.”
+
+The necessity of a system of scansion which recognises
+uniformity in the length of the feet of a verse arises from
+the fact that metre originated with songs, and that feet
+correspond to bars of music, which must be of uniform
+length so long as the same “ time ’' is maintained.
+
+A long syllable (-) has normally the value of two times.
+In certain positions, however, a long syllable takes the place
+of a short syllable; it is then called “ irrational,'' and is
+denoted by the sign > .
+
+Again, a long syllable may have the value of three or of
+four times: in the former case it is denoted by ; the
+latter value does not occur in any of the metres to be
+explained here.
+
+The feet found in the Odes of Horace are :—
+
+Of three times: trochee (ί υ ), irrational trochee (Δ > ),
+and syncopated trochee (ι-) ;
+oyclic dactyl* (ίυ υ) ;
+iambus( υ J) and irrational iambus ( > -l ).
+Of four times : dactyl (ί υ υ) ;
+spondee ( Δ - ). Ι
+Of six times ionicus a minore (υ υ ·- - ).
+
+The sign (t) indicates the position of the ictus or metrical
+stress3 this must not be confused with the word-accent,
+with which it may or may not coincide. In the following
+metrical schemes it can easily be supplied from the above
+list of feet, but the relative strength of the ictus in different
+parts of the verse was by no means the same and cannot be
+dctermined with certainty ; it must have varied in accord-
+ance with the requirements of rhythm and sense.
+
+Many verses begin with an introductory syllable (known
+as the “ anacrusis ''), which does not form part of the system
+
+* In a cyclic dactyl the long syllable and the first short syllable
+together have the value of two times.
+
